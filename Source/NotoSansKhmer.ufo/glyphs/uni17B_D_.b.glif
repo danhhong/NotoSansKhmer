@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17BD.b" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-850" y="-500" type="line"/>
+      <point x="-672" y="-500" type="line"/>
+      <point x="-672" y="-707" type="line"/>
+      <point x="-525" y="-620" type="line"/>
+      <point x="-378" y="-707" type="line"/>
+      <point x="-378" y="-500" type="line"/>
+      <point x="-200" y="-500" type="line"/>
+      <point x="-200" y="-800" type="line"/>
+      <point x="-400" y="-800" type="line"/>
+      <point x="-525" y="-713" type="line"/>
+      <point x="-650" y="-800" type="line"/>
+      <point x="-850" y="-800" type="line"/>
+    </contour>
+  </outline>
+</glyph>
