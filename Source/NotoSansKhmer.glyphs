@@ -72278,6 +72278,7 @@ instanceInterpolations = {
 "060F58F1-3EA2-4F98-A18F-48F5C294967E" = 1;
 };
 name = Black;
+weightClass = Black;
 }
 );
 manufacturer = "Danh Hong";
