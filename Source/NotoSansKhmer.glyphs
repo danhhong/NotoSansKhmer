@@ -1,5 +1,5 @@
 {
-.appVersion = "1286";
+.appVersion = "1352";
 DisplayStrings = (
 "/uni1783"
 );
@@ -72238,6 +72238,23 @@ unicode = 25CC;
 );
 instances = (
 {
+interpolationWidth = 5;
+instanceInterpolations = {
+"8A1C0CC1-EE03-427E-B0CA-3C005E87466D" = 1;
+};
+name = Thin;
+weightClass = Thin;
+},
+{
+interpolationWeight = 300;
+interpolationWidth = 5;
+instanceInterpolations = {
+"CF375CA9-94CF-498E-91F2-6E39AA840435" = 1;
+};
+name = Light;
+weightClass = Light;
+},
+{
 interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -72253,23 +72270,6 @@ instanceInterpolations = {
 };
 name = Bold;
 weightClass = Bold;
-},
-{
-interpolationWeight = 300;
-interpolationWidth = 5;
-instanceInterpolations = {
-"CF375CA9-94CF-498E-91F2-6E39AA840435" = 1;
-};
-name = Light;
-weightClass = Light;
-},
-{
-interpolationWidth = 5;
-instanceInterpolations = {
-"8A1C0CC1-EE03-427E-B0CA-3C005E87466D" = 1;
-};
-name = Thin;
-weightClass = Thin;
 },
 {
 interpolationWeight = 900;
