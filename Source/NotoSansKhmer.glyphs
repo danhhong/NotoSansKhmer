@@ -1,6 +1,6 @@
 {
 .appVersion = "1352";
-copyright = "Copyright 2019 The Noto Sans Khmer Project Authors (https://github.com/danhhong/Bayon)";
+copyright = "Copyright 2019 The Noto Sans Khmer Project Authors (https://github.com/danhhong/NotoSansKhmer)";
 customParameters = (
 {
 name = "Use Typo Metrics";

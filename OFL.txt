@@ -1,4 +1,4 @@
-Copyright 2019 The Noto Sans Khmer Project Authors (https://github.com/danhhong/Bayon)
+Copyright 2019 The Noto Sans Khmer Project Authors (https://github.com/danhhong/NotoSansKhmer)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
